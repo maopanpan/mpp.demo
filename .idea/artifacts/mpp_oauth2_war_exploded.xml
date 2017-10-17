@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="mpp.oauth2:war exploded">
+    <output-path>$PROJECT_DIR$/mpp.oauth2/target/mpp.oauth2</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="mpp.oauth2" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-all:1.3" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.4" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/mpp.oauth2/target/mpp.oauth2/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="mpp.oauth2/web/Web" />
+    </root>
+  </artifact>
+</component>

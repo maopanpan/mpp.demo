@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mpp.cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mpp.common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mpp.database" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mpp.oauth2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mpp.serializable" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mpp.shiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mpp.spring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mpp.spring/spring.ehcache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mpp.spring/spring.limit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mpp.spring/spring.redis.cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mpp.spring/spring.token" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mpp.test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mpp.web" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mpp.cache" />
+        <module name="mpp.common" />
+        <module name="mpp.database" />
+        <module name="mpp.oauth2" />
+        <module name="mpp.serializable" />
+        <module name="mpp.shiro" />
+        <module name="mpp.test" />
+        <module name="mpp.web" />
+        <module name="redis.cache" />
+        <module name="spring.ehcache" />
+        <module name="spring.limit" />
+        <module name="spring.redis.cache" />
+        <module name="spring.token" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.7">
+      <module name="mpp.cache" target="1.7" />
+      <module name="mpp.common" target="1.5" />
+      <module name="mpp.database" target="1.5" />
+      <module name="mpp.demo" target="1.5" />
+      <module name="mpp.oauth2" target="1.5" />
+      <module name="mpp.serializable" target="1.8" />
+      <module name="mpp.shiro" target="1.7" />
+      <module name="mpp.spring" target="1.5" />
+      <module name="mpp.test" target="1.8" />
+      <module name="mpp.web" target="1.5" />
+      <module name="spring.ehcache" target="1.7" />
+      <module name="spring.limit" target="1.7" />
+      <module name="spring.redis.cache" target="1.7" />
+      <module name="spring.token" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mpp.web:war">
+    <output-path>$PROJECT_DIR$/mpp.web/target</output-path>
+    <root id="archive" name="mpp.web.war">
+      <element id="artifact" artifact-name="mpp.web:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,16 @@
+server:
+  port: 80
+  tomcat:
+    uri-encoding: utf-8
+    max-threads: 300
+  context-path: /
+
+spring:
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    timeout: 0
+
+logging:
+  config: classpath:config/logback.xml
+  level: info

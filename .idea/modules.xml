@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mpp.cache/mpp.cache.iml" filepath="$PROJECT_DIR$/mpp.cache/mpp.cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mpp.common/mpp.common.iml" filepath="$PROJECT_DIR$/mpp.common/mpp.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mpp.database/mpp.database.iml" filepath="$PROJECT_DIR$/mpp.database/mpp.database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mpp.demo.iml" filepath="$PROJECT_DIR$/mpp.demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mpp.oauth2/mpp.oauth2.iml" filepath="$PROJECT_DIR$/mpp.oauth2/mpp.oauth2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mpp.serializable/mpp.serializable.iml" filepath="$PROJECT_DIR$/mpp.serializable/mpp.serializable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mpp.shiro/mpp.shiro.iml" filepath="$PROJECT_DIR$/mpp.shiro/mpp.shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mpp.spring/mpp.spring.iml" filepath="$PROJECT_DIR$/mpp.spring/mpp.spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mpp.test/mpp.test.iml" filepath="$PROJECT_DIR$/mpp.test/mpp.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mpp.web/mpp.web.iml" filepath="$PROJECT_DIR$/mpp.web/mpp.web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mpp.spring/spring.ehcache/spring.ehcache.iml" filepath="$PROJECT_DIR$/mpp.spring/spring.ehcache/spring.ehcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mpp.spring/spring.limit/spring.limit.iml" filepath="$PROJECT_DIR$/mpp.spring/spring.limit/spring.limit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mpp.spring/spring.redis.cache/spring.redis.cache.iml" filepath="$PROJECT_DIR$/mpp.spring/spring.redis.cache/spring.redis.cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mpp.spring/spring.token/spring.token.iml" filepath="$PROJECT_DIR$/mpp.spring/spring.token/spring.token.iml" />
+    </modules>
+  </component>
+</project>
